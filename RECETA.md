@@ -48,8 +48,7 @@
 2. Agrega sal y pimienta al gusto.
 3. Sirve en un recipiente pequeño para acompañar el pollo.
 
-## 🍽️ Servir
-- Acompaña con **papas fritas, ensalada fresca y ají criollo**.
-- Disfruta con una **salsa de huacatay o rocoto** para un toque más tradicional.
 
-¡Buen provecho! 😋🔥
+
+## flujo del acp
+### git add
